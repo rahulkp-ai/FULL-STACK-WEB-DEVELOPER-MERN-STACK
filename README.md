@@ -1,0 +1,139 @@
+# Full-Stack Web Developer (MERN Stack) Checklist
+
+- [ ] **1. Front-End Development: UI Designing**
+  - [ ] Introduction to UI Design
+  - [ ] UI Designing Fundamentals
+    - [ ] Colour Concepts & Colour Theory
+    - [ ] Typography
+    - [ ] Menus
+    - [ ] Tools
+  - [ ] Real-time Designing of a Professional Website
+
+- [ ] **2. MongoDB**
+  - [ ] Introduction to NoSQL
+    - [ ] Overview, Advantages & Disadvantages
+    - [ ] Types of NoSQL Databases
+    - [ ] Strengths and Weaknesses
+  - [ ] Introduction to MongoDB
+    - [ ] Overview & Features
+    - [ ] Advantages of MongoDB over RDBMS
+    - [ ] Applications
+    - [ ] Installation and Environment Setup
+  - [ ] Data Modelling & Basic Operations
+    - [ ] Data Model Design & Schema Considerations
+    - [ ] Create & Drop Database
+    - [ ] MongoDB Datatypes
+  - [ ] Collections & Operations
+    - [ ] Creating & Dropping Collections
+  - [ ] CRUD Operations
+    - [ ] Inserting Data (`insert()`, `insertOne()`, `insertMany()`)
+    - [ ] Querying Documents (`find()`, `findOne()`, `pretty()`)
+    - [ ] Logical Operators (AND, OR, NOR, NOT) & RDBMS WHERE Equivalents
+    - [ ] Updating Documents (`update()`, `save()`, `findOneAndUpdate()`, `updateOne()`, `updateMany()`)
+    - [ ] Deleting Documents (`remove()`, Single/All Records)
+  - [ ] Advanced Querying & Performance
+    - [ ] Limit, Skip & Sorting Data
+    - [ ] Indexing Data & Advanced Indexing
+    - [ ] Aggregate Functions
+  - [ ] Database Administration & Optimization
+    - [ ] Data Replication & Sharding Concepts
+    - [ ] Backup and Restore (`mongodump`, `mongorestore`)
+    - [ ] Deployment & Monitoring (`mongostat`, `mongotop`)
+  - [ ] Advanced Features
+    - [ ] Relationships & Database References
+    - [ ] Covered Queries & Analyzing Queries
+    - [ ] Atomic Operations, Map-Reduce, GridFS & Capped Collections
+
+- [ ] **3. Express.js**
+  - [ ] Overview & Environment Setup
+    - [ ] Definition, NPM Setup & Application Initialization
+    - [ ] Basic Server (`app.get`, `res.send`, `app.listen`)
+  - [ ] Routing & HTTP Methods
+    - [ ] Route Handlers & Express Routers
+    - [ ] HTTP Methods (GET, POST, PUT, DELETE)
+    - [ ] URL Building & Pattern Matched Routes
+  - [ ] Middleware
+    - [ ] Middleware Execution Order & Third-Party Middleware
+  - [ ] Templating & Static Files
+    - [ ] Introduction to Pug (Features, Variables, Conditionals, Includes)
+    - [ ] Serving Static Files, Multiple Directories & Virtual Path Prefixes
+  - [ ] Form Data & Handling Input
+    - [ ] Processing Forms
+  - [ ] Database Integration
+    - [ ] Introduction & Setup with Mongoose
+    - [ ] CRUD Operations with Mongoose
+  - [ ] State Management & Authentication
+    - [ ] Cookies (Adding, Expiration, Deleting)
+    - [ ] Sessions (Express-Session Setup)
+    - [ ] Authentication Basics
+  - [ ] RESTful APIs
+    - [ ] URIs & Standard REST Methods
+  - [ ] Application Tooling & Operations
+    - [ ] Scaffolding (Yeoman Setup)
+    - [ ] Error Handling Methods
+    - [ ] Debugging Techniques in Express.js
+
+- [ ] **4. Node.js**
+  - [ ] Introduction & Environment Setup
+    - [ ] Overview, Features & Applications
+    - [ ] Local Setup (Windows / Ubuntu Linux)
+  - [ ] Core Concepts & CLI Tools
+    - [ ] Console Applications & Application Entry Point
+    - [ ] REPL Terminal Tools & Command Line Options
+    - [ ] Package Manager (NPM - Local/Global Packages, Updates)
+  - [ ] Asynchronous & Event-Driven Architecture
+    - [ ] Callbacks Concept (Blocking vs Non-Blocking Code)
+    - [ ] Events & Event Loop Mechanisms
+    - [ ] Event Emitter & Debugger
+  - [ ] Core Modules & Global Objects
+    - [ ] Global Objects (Buffer, Process, Timers)
+    - [ ] Console Methods & Process Events/Properties
+    - [ ] File Systems (Sync vs Async Methods, File/Directory Operations)
+    - [ ] Streams (Types, Piping & Chaining)
+  - [ ] Advanced Node.js Topics
+    - [ ] File Uploads (Formidable, Multer)
+    - [ ] Scaling Applications (`exec`, `spawn`, `fork`, `execFile`)
+    - [ ] Packaging Applications (Nexe, `pkg` tool, JXCore)
+
+- [ ] **5. React.js**
+  - [ ] Introduction & Setup
+    - [ ] Overview, Versions & Applications
+    - [ ] Prerequisites, Toolchains (Create React App, Babel, Serve)
+    - [ ] Advantages & Disadvantages
+  - [ ] Architecture & Core Concepts
+    - [ ] Virtual DOM & Application Workflow
+    - [ ] Bundlers (Rollup, Parcel)
+    - [ ] JSX Syntax, Expressions, Functions & Attributes
+  - [ ] Components & Styling
+    - [ ] Function vs Class Components
+    - [ ] Splitting, Nesting & Component Collections
+    - [ ] Styling Options (CSS Stylesheets, Inline Styling, CSS Modules)
+  - [ ] State & Props Management
+    - [ ] Using Props, Default Props & Props Validation
+    - [ ] State Definition & State Management API
+    - [ ] React Hooks
+    - [ ] Component Life Cycle API
+  - [ ] User Interaction & UI Features
+    - [ ] Event Management & Synthetic Events
+    - [ ] Form Programming (Controlled, Uncontrolled Components, Formik)
+    - [ ] Conditional Rendering Techniques
+    - [ ] Lists & Keys
+    - [ ] Material UI Integration & Bootstrap
+    - [ ] Maps, Tables & Pagination Components
+    - [ ] Animations & Transitions
+  - [ ] Routing & State Architecture
+    - [ ] React Router (Installation, Nested Routing)
+    - [ ] Redux (Concepts, Redux API, Provider Component)
+    - [ ] State Architecture with Flux
+  - [ ] API Integration, Testing & Deployment
+    - [ ] HTTP Client Programming (REST API Integration)
+    - [ ] Testing, Building & Deployment
+
+- [ ] **6. Server Integration & APIs**
+  - [ ] Working with Web Servers & External APIs
+  - [ ] Project Hosting & Domain Setup
+  - [ ] Payment Gateway Integration
+  - [ ] Security (SSL Configuration & Site Lock)
+
+- [ ] **7. Project Work**
+  - [ ] Full-Stack MERN Capstone / Real-World Application Development
