@@ -1,0 +1,13 @@
+{
+  "name": "university-mongodb-project",
+  "version": "1.0.0",
+  "description": "MongoDB CRUD, Schema Validation, Aggregation, and Indexing in Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
