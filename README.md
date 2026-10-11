@@ -9,7 +9,7 @@
     - [ ] Tools
   - [ ] Real-time Designing of a Professional Website
 
-- [ ] **2. MongoDB**
+- [x] **2. MongoDB**
   - [ ] Introduction to NoSQL
     - [ ] Overview, Advantages & Disadvantages
     - [ ] Types of NoSQL Databases
