@@ -1,13 +1,13 @@
 # Full-Stack Web Developer (MERN Stack) Checklist
 
 - [x] **1. Front-End Development: UI Designing**
-  - [ ] Introduction to UI Design
-  - [ ] UI Designing Fundamentals
-    - [ ] Colour Concepts & Colour Theory
-    - [ ] Typography
-    - [ ] Menus
-    - [ ] Tools
-  - [ ] Real-time Designing of a Professional Website
+  - [x] Introduction to UI Design
+  - [x] UI Designing Fundamentals
+    - [x] Colour Concepts & Colour Theory
+    - [x] Typography
+    - [x] Menus
+    - [x] Tools
+  - [x] Real-time Designing of a Professional Website
 
 - [x] **2. MongoDB**
   - [ ] Introduction to NoSQL
