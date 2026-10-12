@@ -111,19 +111,7 @@ git --version
 ### What is a Branch?
 
 In Git, a **branch** is simply a lightweight, movable pointer to a specific commit. The default pointer is usually `main` or `master`. `HEAD` is a special pointer referencing your current active branch/commit.
-
-```mermaid
-gitGraph
-   commit id: "C1 (Initial)"
-   commit id: "C2 (Core)"
-   branch feature
-   checkout feature
-   commit id: "C3 (Feature A)"
-   commit id: "C4 (Feature B)"
-   checkout main
-   commit id: "C5 (Hotfix)"
-
-```
+![Branch](../figs/Branch.png)
 
 ### Branch Naming Conventions
 
