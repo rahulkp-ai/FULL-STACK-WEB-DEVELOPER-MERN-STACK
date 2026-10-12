@@ -1,5 +1,9 @@
 ## 3. Answer Key (`mongosh` Execution Script)
 
+- **Topic:** MongoDB
+
+- **Instructor: RAHUL KP**
+
 ```javascript
 // ============================================================================
 // TASK 1: DATABASE & SCHEMA VALIDATION SETUP

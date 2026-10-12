@@ -1,5 +1,9 @@
 # MongoDB Practical Assignment: Campus & Learning Management Platform
 
+- **Topic:** MongoDB
+
+- **Instructor: RAHUL KP**
+
 ## Objective
 
 Design and implement a production-grade MongoDB database for a university platform. You will implement schema validation, embedded vs. referenced data modeling, multi-stage aggregation pipelines, indexing strategies, and transactional updates.
