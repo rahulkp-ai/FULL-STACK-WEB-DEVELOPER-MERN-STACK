@@ -10,14 +10,14 @@
   - [x] Real-time Designing of a Professional Website
 
 - [x] **2. MongoDB**
-  - [ ] Introduction to NoSQL
-    - [ ] Overview, Advantages & Disadvantages
-    - [ ] Types of NoSQL Databases
-    - [ ] Strengths and Weaknesses
-  - [ ] Introduction to MongoDB
-    - [ ] Overview & Features
-    - [ ] Advantages of MongoDB over RDBMS
-    - [ ] Applications
+  - [x] Introduction to NoSQL
+    - [x] Overview, Advantages & Disadvantages
+    - [x] Types of NoSQL Databases
+    - [x] Strengths and Weaknesses
+  - [x] Introduction to MongoDB
+    - [x] Overview & Features
+    - [x] Advantages of MongoDB over RDBMS
+    - [x] Applications
     - [ ] Installation and Environment Setup
   - [ ] Data Modelling & Basic Operations
     - [ ] Data Model Design & Schema Considerations
