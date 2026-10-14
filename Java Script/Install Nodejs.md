@@ -1,5 +1,9 @@
 # Installing Node.js (Windows, macOS, Linux)
 
+- **Topic:** NodeJs
+
+- **Instructor: RAHUL KP**
+
 ### Table of Contents
 
 1. [Windows Installation](https://www.google.com/search?q=%23windows-installation)
