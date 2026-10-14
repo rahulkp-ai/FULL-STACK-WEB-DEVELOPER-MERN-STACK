@@ -73,7 +73,7 @@
     - [ ] Error Handling Methods
     - [ ] Debugging Techniques in Express.js
 
-- [ ] **4. Node.js**
+- [x] **4. Node.js**
   - [ ] Introduction & Environment Setup
     - [ ] Overview, Features & Applications
     - [ ] Local Setup (Windows / Ubuntu Linux)
