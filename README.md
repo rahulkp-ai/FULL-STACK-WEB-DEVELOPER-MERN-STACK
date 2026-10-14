@@ -18,19 +18,19 @@
     - [x] Overview & Features
     - [x] Advantages of MongoDB over RDBMS
     - [x] Applications
-    - [ ] Installation and Environment Setup
-  - [ ] Data Modelling & Basic Operations
-    - [ ] Data Model Design & Schema Considerations
+    - [x] Installation and Environment Setup
+  - [x] Data Modelling & Basic Operations
+    - [x] Data Model Design & Schema Considerations
     - [ ] Create & Drop Database
-    - [ ] MongoDB Datatypes
-  - [ ] Collections & Operations
-    - [ ] Creating & Dropping Collections
-  - [ ] CRUD Operations
-    - [ ] Inserting Data (`insert()`, `insertOne()`, `insertMany()`)
-    - [ ] Querying Documents (`find()`, `findOne()`, `pretty()`)
-    - [ ] Logical Operators (AND, OR, NOR, NOT) & RDBMS WHERE Equivalents
-    - [ ] Updating Documents (`update()`, `save()`, `findOneAndUpdate()`, `updateOne()`, `updateMany()`)
-    - [ ] Deleting Documents (`remove()`, Single/All Records)
+    - [x] MongoDB Datatypes
+  - [x] Collections & Operations
+    - [x] Creating & Dropping Collections
+  - [x] CRUD Operations
+    - [x] Inserting Data (`insert()`, `insertOne()`, `insertMany()`)
+    - [x] Querying Documents (`find()`, `findOne()`, `pretty()`)
+    - [x] Logical Operators (AND, OR, NOR, NOT) & RDBMS WHERE Equivalents
+    - [x] Updating Documents (`update()`, `save()`, `findOneAndUpdate()`, `updateOne()`, `updateMany()`)
+    - [x] Deleting Documents (`remove()`, Single/All Records)
   - [ ] Advanced Querying & Performance
     - [ ] Limit, Skip & Sorting Data
     - [ ] Indexing Data & Advanced Indexing
