@@ -1,5 +1,9 @@
 # JavaScript Study Notes
 
+- **Topic:** JavaScript
+
+- **Instructor: RAHUL KP**
+
 ---
 
 ## What is JavaScript
