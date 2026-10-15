@@ -8,13 +8,7 @@
 
 Node.js is an open-source, cross-platform JavaScript runtime environment built on Chrome's V8 JavaScript engine. It allows developers to execute JavaScript code outside the browser, primarily for server-side development.
 
-```mermaid
-graph TD
-    A[Client Request] -->|HTTP / WebSockets| B[Node.js Single-Threaded Event Loop]
-    B -->|Non-Blocking I/O| C[(Database / File System)]
-    C -->|Async Callback / Promise| B
-    B -->|Response| A
-```
+![Overview](../figs/NodeJs/Overview.png)
 
 ### Core Features
 

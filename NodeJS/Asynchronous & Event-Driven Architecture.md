@@ -43,16 +43,7 @@ console.log("Execution continues immediately without waiting for file read!");
 
 The **Event Loop** is what allows Node.js to perform non-blocking I/O operations by offloading operations to the system kernel whenever possible.
 
-```mermaid
-graph TD
-    A[Incoming Requests / Timers] --> B[Event Loop Phases]
-    B -->|Timers| C[setTimeout / setInterval]
-    B -->|Poll| D[I/O Events / File Reads / Network]
-    B -->|Check| E[setImmediate]
-    B -->|Close Callbacks| F[Socket Close Events]
-    D -->|Callback Queue| B
-
-```
+![Event Loop Mechanisms](../figs/NodeJs/Event%20Loop%20Mechanisms.png)
 
 ---
 
