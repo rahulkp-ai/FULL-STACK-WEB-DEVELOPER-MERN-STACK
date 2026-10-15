@@ -74,7 +74,7 @@
     - [ ] Debugging Techniques in Express.js
 
 - [x] **4. Node.js**
-  - [ ] Introduction & Environment Setup
+  - [x] Introduction & Environment Setup
     - [ ] Overview, Features & Applications
     - [ ] Local Setup (Windows / Ubuntu Linux)
   - [ ] Core Concepts & CLI Tools
