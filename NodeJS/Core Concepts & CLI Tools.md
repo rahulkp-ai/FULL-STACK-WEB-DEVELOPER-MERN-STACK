@@ -1,6 +1,6 @@
 # Core Concepts & CLI Tools
 
-- **Topic:** Node.js
+- **Topic:** Core Concepts & CLI Tools
 
 - **Instructor: RAHUL KP**
 

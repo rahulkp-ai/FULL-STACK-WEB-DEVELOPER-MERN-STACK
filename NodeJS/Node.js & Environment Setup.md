@@ -1,6 +1,6 @@
 # Node.js, Introduction & Environment Setup
 
-- **Topic:** Node.js
+- **Topic:** Node.js, Introduction & Environment Setup
 
 - **Instructor: RAHUL KP**
 

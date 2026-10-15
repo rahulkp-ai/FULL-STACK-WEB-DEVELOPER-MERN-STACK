@@ -1,6 +1,6 @@
 # Advanced Node.js Topics
 
-- **Topic:** Node.js
+- **Topic:** Advanced Node.js Topics
 
 - **Instructor: RAHUL KP**
 

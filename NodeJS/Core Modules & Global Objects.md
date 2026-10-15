@@ -1,6 +1,6 @@
 # Core Modules & Global Objects
 
-- **Topic:** Node.js
+- **Topic:** Core Modules & Global Objects
 
 - **Instructor: RAHUL KP**
 
