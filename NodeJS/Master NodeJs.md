@@ -1,6 +1,6 @@
 # Master Node.js
 
-- **Topic:** Node.js
+- **Topic:** Master Node.js
 
 - **Instructor: RAHUL KP**
 

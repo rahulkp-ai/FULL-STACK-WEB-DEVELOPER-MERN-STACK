@@ -1,6 +1,6 @@
 # Asynchronous & Event-Driven Architecture
 
-- **Topic:** Node.js
+- **Topic:** Asynchronous & Event-Driven Architecture
 
 - **Instructor: RAHUL KP**
 
