@@ -30,15 +30,7 @@ node app.js Rahul
 ## 2. REPL Terminal Tools & Command Line Options
 
 The **REPL** (Read-Eval-Print-Loop) environment provides an interactive shell for testing JavaScript expressions instantly.
-
-```mermaid
-graph LR
-    R[Read] --> E[Eval]
-    E --> P[Print]
-    P --> L[Loop]
-    L --> R
-
-```
+![Terminal Tools](../figs/NodeJs/Terminal%20Tools.png)
 
 ### REPL Special Commands & Features
 

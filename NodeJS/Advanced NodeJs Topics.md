@@ -22,12 +22,7 @@ Node.js is single-threaded, but can scale across multi-core CPU architectures us
 - **`fork()`:** A special instance of `spawn()` designed specifically to spawn new Node.js worker processes, enabling robust Inter-Process Communication (IPC).
 - **`execFile()`:** Similar to `exec()`, but directly executes the file without spawning a shell, providing higher security and performance.
 
-```mermaid
-graph TD
-    A[Main Node Process] -->|child_process.fork()| B[Worker Process 1]
-    A -->|child_process.fork()| C[Worker Process 2]
-    A -->|child_process.spawn()| D[External CLI Task]
-```
+![Scaling Applications](../figs/NodeJs/Scaling%20Applications.png)
 
 ---
 

@@ -16,3 +16,19 @@ graph TD
     D -->|Callback Queue| B
 
 ```
+
+```mermaid
+graph LR
+    R[Read] --> E[Eval]
+    E --> P[Print]
+    P --> L[Loop]
+    L --> R
+
+```
+
+```mermaid
+graph TD
+A[Main Node Process] -- "child_process.fork()" --> B[Worker Process 1]
+A -- "child_process.fork()" --> C[Worker Process 2]
+A -- "child_process.spawn()" --> D[External CLI Task]
+```
