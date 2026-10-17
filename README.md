@@ -31,9 +31,9 @@
     - [x] Logical Operators (AND, OR, NOR, NOT) & RDBMS WHERE Equivalents
     - [x] Updating Documents (`update()`, `save()`, `findOneAndUpdate()`, `updateOne()`, `updateMany()`)
     - [x] Deleting Documents (`remove()`, Single/All Records)
-  - [ ] Advanced Querying & Performance
-    - [ ] Limit, Skip & Sorting Data
-    - [ ] Indexing Data & Advanced Indexing
+  - [x] Advanced Querying & Performance
+    - [x] Limit, Skip & Sorting Data
+    - [x] Indexing Data & Advanced Indexing
     - [ ] Aggregate Functions
   - [ ] Database Administration & Optimization
     - [ ] Data Replication & Sharding Concepts
@@ -75,8 +75,8 @@
 
 - [x] **4. Node.js**
   - [x] Introduction & Environment Setup
-    - [ ] Overview, Features & Applications
-    - [ ] Local Setup (Windows / Ubuntu Linux)
+    - [x] Overview, Features & Applications
+    - [x] Local Setup (Windows / Ubuntu Linux)
   - [ ] Core Concepts & CLI Tools
     - [ ] Console Applications & Application Entry Point
     - [ ] REPL Terminal Tools & Command Line Options
