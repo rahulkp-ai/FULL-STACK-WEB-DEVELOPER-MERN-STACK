@@ -44,31 +44,31 @@
     - [ ] Covered Queries & Analyzing Queries
     - [ ] Atomic Operations, Map-Reduce, GridFS & Capped Collections
 
-- [ ] **3. Express.js**
-  - [ ] Overview & Environment Setup
+- [x] **3. Express.js**
+  - [x] Overview & Environment Setup
     - [ ] Definition, NPM Setup & Application Initialization
     - [ ] Basic Server (`app.get`, `res.send`, `app.listen`)
-  - [ ] Routing & HTTP Methods
+  - [x] Routing & HTTP Methods
     - [ ] Route Handlers & Express Routers
     - [ ] HTTP Methods (GET, POST, PUT, DELETE)
     - [ ] URL Building & Pattern Matched Routes
-  - [ ] Middleware
+  - [x] Middleware
     - [ ] Middleware Execution Order & Third-Party Middleware
-  - [ ] Templating & Static Files
+  - [x] Templating & Static Files
     - [ ] Introduction to Pug (Features, Variables, Conditionals, Includes)
     - [ ] Serving Static Files, Multiple Directories & Virtual Path Prefixes
-  - [ ] Form Data & Handling Input
+  - [x] Form Data & Handling Input
     - [ ] Processing Forms
-  - [ ] Database Integration
+  - [x] Database Integration
     - [ ] Introduction & Setup with Mongoose
     - [ ] CRUD Operations with Mongoose
-  - [ ] State Management & Authentication
+  - [x] State Management & Authentication
     - [ ] Cookies (Adding, Expiration, Deleting)
     - [ ] Sessions (Express-Session Setup)
     - [ ] Authentication Basics
-  - [ ] RESTful APIs
+  - [x] RESTful APIs
     - [ ] URIs & Standard REST Methods
-  - [ ] Application Tooling & Operations
+  - [x] Application Tooling & Operations
     - [ ] Scaffolding (Yeoman Setup)
     - [ ] Error Handling Methods
     - [ ] Debugging Techniques in Express.js
