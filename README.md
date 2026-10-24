@@ -44,31 +44,31 @@
     - [ ] Covered Queries & Analyzing Queries
     - [ ] Atomic Operations, Map-Reduce, GridFS & Capped Collections
 
-- [ ] **3. Express.js**
-  - [ ] Overview & Environment Setup
+- [x] **3. Express.js**
+  - [x] Overview & Environment Setup
     - [ ] Definition, NPM Setup & Application Initialization
     - [ ] Basic Server (`app.get`, `res.send`, `app.listen`)
-  - [ ] Routing & HTTP Methods
+  - [x] Routing & HTTP Methods
     - [ ] Route Handlers & Express Routers
     - [ ] HTTP Methods (GET, POST, PUT, DELETE)
     - [ ] URL Building & Pattern Matched Routes
-  - [ ] Middleware
+  - [x] Middleware
     - [ ] Middleware Execution Order & Third-Party Middleware
-  - [ ] Templating & Static Files
+  - [x] Templating & Static Files
     - [ ] Introduction to Pug (Features, Variables, Conditionals, Includes)
     - [ ] Serving Static Files, Multiple Directories & Virtual Path Prefixes
-  - [ ] Form Data & Handling Input
+  - [x] Form Data & Handling Input
     - [ ] Processing Forms
-  - [ ] Database Integration
+  - [x] Database Integration
     - [ ] Introduction & Setup with Mongoose
     - [ ] CRUD Operations with Mongoose
-  - [ ] State Management & Authentication
+  - [x] State Management & Authentication
     - [ ] Cookies (Adding, Expiration, Deleting)
     - [ ] Sessions (Express-Session Setup)
     - [ ] Authentication Basics
-  - [ ] RESTful APIs
+  - [x] RESTful APIs
     - [ ] URIs & Standard REST Methods
-  - [ ] Application Tooling & Operations
+  - [x] Application Tooling & Operations
     - [ ] Scaffolding (Yeoman Setup)
     - [ ] Error Handling Methods
     - [ ] Debugging Techniques in Express.js
@@ -77,19 +77,19 @@
   - [x] Introduction & Environment Setup
     - [x] Overview, Features & Applications
     - [x] Local Setup (Windows / Ubuntu Linux)
-  - [ ] Core Concepts & CLI Tools
-    - [ ] Console Applications & Application Entry Point
-    - [ ] REPL Terminal Tools & Command Line Options
-    - [ ] Package Manager (NPM - Local/Global Packages, Updates)
-  - [ ] Asynchronous & Event-Driven Architecture
-    - [ ] Callbacks Concept (Blocking vs Non-Blocking Code)
-    - [ ] Events & Event Loop Mechanisms
-    - [ ] Event Emitter & Debugger
-  - [ ] Core Modules & Global Objects
-    - [ ] Global Objects (Buffer, Process, Timers)
-    - [ ] Console Methods & Process Events/Properties
-    - [ ] File Systems (Sync vs Async Methods, File/Directory Operations)
-    - [ ] Streams (Types, Piping & Chaining)
+  - [x] Core Concepts & CLI Tools
+    - [x] Console Applications & Application Entry Point
+    - [x] REPL Terminal Tools & Command Line Options
+    - [x] Package Manager (NPM - Local/Global Packages, Updates)
+  - [x] Asynchronous & Event-Driven Architecture
+    - [x] Callbacks Concept (Blocking vs Non-Blocking Code)
+    - [x] Events & Event Loop Mechanisms
+    - [x] Event Emitter & Debugger
+  - [x] Core Modules & Global Objects
+    - [x] Global Objects (Buffer, Process, Timers)
+    - [x] Console Methods & Process Events/Properties
+    - [x] File Systems (Sync vs Async Methods, File/Directory Operations)
+    - [x] Streams (Types, Piping & Chaining)
   - [ ] Advanced Node.js Topics
     - [ ] File Uploads (Formidable, Multer)
     - [ ] Scaling Applications (`exec`, `spawn`, `fork`, `execFile`)
