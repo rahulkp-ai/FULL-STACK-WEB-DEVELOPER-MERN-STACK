@@ -77,19 +77,19 @@
   - [x] Introduction & Environment Setup
     - [x] Overview, Features & Applications
     - [x] Local Setup (Windows / Ubuntu Linux)
-  - [ ] Core Concepts & CLI Tools
-    - [ ] Console Applications & Application Entry Point
-    - [ ] REPL Terminal Tools & Command Line Options
-    - [ ] Package Manager (NPM - Local/Global Packages, Updates)
-  - [ ] Asynchronous & Event-Driven Architecture
-    - [ ] Callbacks Concept (Blocking vs Non-Blocking Code)
-    - [ ] Events & Event Loop Mechanisms
-    - [ ] Event Emitter & Debugger
-  - [ ] Core Modules & Global Objects
-    - [ ] Global Objects (Buffer, Process, Timers)
-    - [ ] Console Methods & Process Events/Properties
-    - [ ] File Systems (Sync vs Async Methods, File/Directory Operations)
-    - [ ] Streams (Types, Piping & Chaining)
+  - [x] Core Concepts & CLI Tools
+    - [x] Console Applications & Application Entry Point
+    - [x] REPL Terminal Tools & Command Line Options
+    - [x] Package Manager (NPM - Local/Global Packages, Updates)
+  - [x] Asynchronous & Event-Driven Architecture
+    - [x] Callbacks Concept (Blocking vs Non-Blocking Code)
+    - [x] Events & Event Loop Mechanisms
+    - [x] Event Emitter & Debugger
+  - [x] Core Modules & Global Objects
+    - [x] Global Objects (Buffer, Process, Timers)
+    - [x] Console Methods & Process Events/Properties
+    - [x] File Systems (Sync vs Async Methods, File/Directory Operations)
+    - [x] Streams (Types, Piping & Chaining)
   - [ ] Advanced Node.js Topics
     - [ ] File Uploads (Formidable, Multer)
     - [ ] Scaling Applications (`exec`, `spawn`, `fork`, `execFile`)
