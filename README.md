@@ -21,7 +21,7 @@
     - [x] Installation and Environment Setup
   - [x] Data Modelling & Basic Operations
     - [x] Data Model Design & Schema Considerations
-    - [ ] Create & Drop Database
+    - [x] Create & Drop Database
     - [x] MongoDB Datatypes
   - [x] Collections & Operations
     - [x] Creating & Dropping Collections
