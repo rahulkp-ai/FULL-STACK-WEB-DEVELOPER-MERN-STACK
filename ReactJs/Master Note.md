@@ -49,7 +49,7 @@ Components must be named using **PascalCase**, return JSX, and be exported as de
 ```tsx
 function Message() {
   // JSX under the hood compiles to React.createElement() calls
-  const name = "Rahul";
+  const name = "RONI";
   if (name) {
     return <h1>Hello {name}</h1>;
   }
