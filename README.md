@@ -46,31 +46,31 @@
 
 - [x] **3. Express.js**
   - [x] Overview & Environment Setup
-    - [ ] Definition, NPM Setup & Application Initialization
-    - [ ] Basic Server (`app.get`, `res.send`, `app.listen`)
+    - [x] Definition, NPM Setup & Application Initialization
+    - [x] Basic Server (`app.get`, `res.send`, `app.listen`)
   - [x] Routing & HTTP Methods
-    - [ ] Route Handlers & Express Routers
-    - [ ] HTTP Methods (GET, POST, PUT, DELETE)
-    - [ ] URL Building & Pattern Matched Routes
+    - [x] Route Handlers & Express Routers
+    - [x] HTTP Methods (GET, POST, PUT, DELETE)
+    - [x] URL Building & Pattern Matched Routes
   - [x] Middleware
-    - [ ] Middleware Execution Order & Third-Party Middleware
+    - [x] Middleware Execution Order & Third-Party Middleware
   - [x] Templating & Static Files
-    - [ ] Introduction to Pug (Features, Variables, Conditionals, Includes)
-    - [ ] Serving Static Files, Multiple Directories & Virtual Path Prefixes
+    - [x] Introduction to Pug (Features, Variables, Conditionals, Includes)
+    - [x] Serving Static Files, Multiple Directories & Virtual Path Prefixes
   - [x] Form Data & Handling Input
-    - [ ] Processing Forms
+    - [x] Processing Forms
   - [x] Database Integration
-    - [ ] Introduction & Setup with Mongoose
-    - [ ] CRUD Operations with Mongoose
+    - [x] Introduction & Setup with Mongoose
+    - [x] CRUD Operations with Mongoose
   - [x] State Management & Authentication
-    - [ ] Cookies (Adding, Expiration, Deleting)
-    - [ ] Sessions (Express-Session Setup)
-    - [ ] Authentication Basics
+    - [x] Cookies (Adding, Expiration, Deleting)
+    - [x] Sessions (Express-Session Setup)
+    - [x] Authentication Basics
   - [x] RESTful APIs
-    - [ ] URIs & Standard REST Methods
+    - [x] URIs & Standard REST Methods
   - [x] Application Tooling & Operations
     - [ ] Scaffolding (Yeoman Setup)
-    - [ ] Error Handling Methods
+    - [x] Error Handling Methods
     - [ ] Debugging Techniques in Express.js
 
 - [x] **4. Node.js**
