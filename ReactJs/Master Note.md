@@ -16,6 +16,7 @@ To set up a lightning-fast modern project with Vite and TypeScript, run the foll
 npm create vite@4.1.0 react-app
 cd react-app
 npm install
+npm run dev
 npm install bootstrap@5.2.3
 
 ```
