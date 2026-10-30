@@ -96,24 +96,24 @@
     - [ ] Packaging Applications (Nexe, `pkg` tool, JXCore)
 
 - [ ] **5. React.js**
-  - [ ] Introduction & Setup
+  - [x] Introduction & Setup
     - [ ] Overview, Versions & Applications
     - [ ] Prerequisites, Toolchains (Create React App, Babel, Serve)
     - [ ] Advantages & Disadvantages
-  - [ ] Architecture & Core Concepts
+  - [x] Architecture & Core Concepts
     - [ ] Virtual DOM & Application Workflow
     - [ ] Bundlers (Rollup, Parcel)
     - [ ] JSX Syntax, Expressions, Functions & Attributes
-  - [ ] Components & Styling
+  - [x] Components & Styling
     - [ ] Function vs Class Components
     - [ ] Splitting, Nesting & Component Collections
     - [ ] Styling Options (CSS Stylesheets, Inline Styling, CSS Modules)
-  - [ ] State & Props Management
+  - [x] State & Props Management
     - [ ] Using Props, Default Props & Props Validation
     - [ ] State Definition & State Management API
     - [ ] React Hooks
     - [ ] Component Life Cycle API
-  - [ ] User Interaction & UI Features
+  - [x] User Interaction & UI Features
     - [ ] Event Management & Synthetic Events
     - [ ] Form Programming (Controlled, Uncontrolled Components, Formik)
     - [ ] Conditional Rendering Techniques
@@ -121,11 +121,11 @@
     - [ ] Material UI Integration & Bootstrap
     - [ ] Maps, Tables & Pagination Components
     - [ ] Animations & Transitions
-  - [ ] Routing & State Architecture
+  - [x] Routing & State Architecture
     - [ ] React Router (Installation, Nested Routing)
     - [ ] Redux (Concepts, Redux API, Provider Component)
     - [ ] State Architecture with Flux
-  - [ ] API Integration, Testing & Deployment
+  - [x] API Integration, Testing & Deployment
     - [ ] HTTP Client Programming (REST API Integration)
     - [ ] Testing, Building & Deployment
 
