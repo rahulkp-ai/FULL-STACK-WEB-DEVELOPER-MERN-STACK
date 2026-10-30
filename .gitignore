@@ -2,3 +2,4 @@ Notes
 *.pdf
 node_modules
 .env
+.vite
