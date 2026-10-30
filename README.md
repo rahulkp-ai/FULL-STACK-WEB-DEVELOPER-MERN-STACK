@@ -129,7 +129,7 @@
     - [ ] HTTP Client Programming (REST API Integration)
     - [ ] Testing, Building & Deployment
 
-- [ ] **6. Server Integration & APIs**
+- [x] **6. Server Integration & APIs**
   - [ ] Working with Web Servers & External APIs
   - [ ] Project Hosting & Domain Setup
   - [ ] Payment Gateway Integration
