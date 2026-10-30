@@ -1,6 +1,6 @@
 // Pascal Casing
 function Message() {
-    
+
   const name = "RONI";
   if (name) {
     return <h1>Hello {name}</h1>;
