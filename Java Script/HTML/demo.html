@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Concepts in Action</title>
+</head>
+<body>
+
+    <!-- 2. Content Sections & Layout (Semantic HTML) & Header -->
+    <header>
+        <h1>HTML Concepts & Tags Reference Guide</h1>
+        <p>This page demonstrates core HTML concepts, tags, and semantic elements in action.</p>
+        
+        <!-- Navigation -->
+        <nav>
+            <a href="#intro">Home</a> | 
+            <a href="#content">Content</a> | 
+            <a href="#form-section">Contact Form</a> | 
+            <a href="#table-section">Data Table</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- Main Content Area -->
+    <main>
+        
+        <!-- Section 1 & 3: Typography & Thematic Sections -->
+        <section id="intro">
+            <h2>1 & 3. Document Structure & Typography</h2>
+            <p>Every HTML document starts with a structure like <code>&lt;DOCTYPE html&gt;</code>, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code>, and <code>&lt;body&gt;</code>.</p>
+            <p>Text styling can be <strong>strong and bold</strong>, <em>emphasized in italics</em>, or highlighted using a <span>span element</span>.</p>
+        </section>
+
+        <hr>
+
+        <!-- Section 2: Semantic Article & Aside -->
+        <section id="content">
+            <h2>2. Semantic Layout Elements</h2>
+            <article>
+                <h3>Article Title: Why Semantic HTML Matters</h3>
+                <p>Using elements like <code>&lt;article&gt;</code>, <code>&lt;section&gt;</code>, and <code>&lt;header&gt;</code> gives clear meaning to search engines and screen readers.</p>
+            </article>
+            
+            <aside>
+                <p><em>Sidebar Note: (Note: When mentioning "dev", it typically refers to the <code>&lt;div&gt;</code> tag!)</em></p>
+            </aside>
+        </section>
+
+        <hr>
+
+        <!-- Section 4: Media & Embedded Content -->
+        <section>
+            <h2>4. Media & Embedded Content</h2>
+            <p>Here is an example of an image and a list:</p>
+            <!-- Image Example -->
+            <img src="logo.png" alt="Sample Company Logo" width="120">
+        </section>
+
+        <hr>
+
+        <!-- Section 5: Lists -->
+        <section>
+            <h2>5. Lists (Unordered & Ordered)</h2>
+            <p>Unordered list of web development topics:</p>
+            <ul>
+                <li>HTML Structure</li>
+                <li>CSS Styling</li>
+                <li>JavaScript Interactivity</li>
+            </ul>
+
+            <p>Ordered list of steps:</p>
+            <ol>
+                <li>Write HTML code</li>
+                <li>Save file as .html</li>
+                <li>Open in browser</li>
+            </ol>
+        </section>
+
+        <hr>
+
+        <!-- Section 6: Forms & User Input -->
+        <section id="form-section">
+            <h2>6. Forms & User Input</h2>
+            <p>Fill out the form below to test user input elements:</p>
+            
+            <form action="#" method="POST">
+                <label for="username">Your Name:</label><br>
+                <input type="text" id="username" name="username" placeholder="Enter your name" required><br><br>
+
+                <label for="bio">Your Feedback:</label><br>
+                <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Type comments here..."></textarea><br><br>
+
+                <label for="country">Select Country:</label><br>
+                <select id="country" name="country">
+                    <option value="in">India</option>
+                    <option value="us">United States</option>
+                    <option value="uk">United Kingdom</option>
+                </select><br><br>
+
+                <button type="submit">Submit Information</button>
+            </form>
+        </section>
+
+        <hr>
+
+        <!-- Section 7: Tables -->
+        <section id="table-section">
+            <h2>7. Tables</h2>
+            <p>Tabular data displayed using rows and columns:</p>
+            
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Concept Name</th>
+                        <th>Category</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>&lt;form&gt;</td>
+                        <td>User Input</td>
+                        <td>Active</td>
+                    </tr>
+                    <tr>
+                        <td>&lt;table&gt;</td>
+                        <td>Data Presentation</td>
+                        <td>Active</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+    </main>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 HTML Reference Guide. Built with semantic HTML elements.</p>
+    </footer>
+
+</body>
+</html>
